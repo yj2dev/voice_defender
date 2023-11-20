@@ -13,7 +13,7 @@
 ## 시연 영상
 <a href="https://www.youtube.com/watch?v=76D2DsDsIkc">보이스 디펜더 시연 영상</a>
 ## 참고 사항
-- 모델 관련 폴더는 용량이 커서 제거했습니다.
+- 모델 관련 폴더는 용량이 커서 첨부하지 않았습니다.
 <br/><br/>
 
 ![image](https://github.com/yj2dev/voice_defender/assets/72322679/8cd73c63-579e-44e2-a06f-07a72f418caa)
